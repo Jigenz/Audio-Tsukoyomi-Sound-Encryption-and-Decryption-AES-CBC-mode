@@ -38,6 +38,16 @@ b.	Functionalities:
 ![image](https://github.com/user-attachments/assets/c471858a-d409-4d21-b21d-bbbe6eda902d)
 ![image](https://github.com/user-attachments/assets/7de02050-9eb8-4469-a000-d3652a12efe0)
 ![image](https://github.com/user-attachments/assets/11c703a0-ee5e-41d5-92ba-30fed03f1fe0)
+![image](https://github.com/user-attachments/assets/8f572c48-973f-481f-b8e6-3bc1b5aff58d)
+![image](https://github.com/user-attachments/assets/848e0ab2-96b1-448c-b5b4-c95e463fc913) ![image](https://github.com/user-attachments/assets/9aafc750-91c4-4d89-8e7e-34f3e56e6df2)
+
+
+4.	Error Handling
+a.	Description: The application incorporates error handling mechanisms to deal with potential issues during input key in the encryption and decryption processes.
+b.	Functionalities:
+•	Uses try-except blocks to catch and handle exceptions during sound processing.
+•	Displays error messages using message boxes when an error occurs, providing information about the nature of the error.
+![image](https://github.com/user-attachments/assets/5547960e-2da2-4f80-9f3b-449332f0ca96)
 
 
 
