@@ -6,7 +6,7 @@ INTERFACE
 1.	Splash Screen
 a.	Description: The application starts with a splash screen, a temporary window that appears when the application is launched. It usually contains branding information, an application title, and possibly an animation or an image.
 b.	Functionalities:
-•	Displays the application name ("AUDIO TSUKOYOMI!!!") means a symbol for powerful manipulation of a secret and excellent art.
+•	Displays the application name ("AUDIO TSUKOYOMI!!!") inspired by a skillful character in the Naruto series, and the means of it is a symbol for powerful manipulation of a secret and excellent art.
 •	Shows information about the development team ("Developed by LegionX").
 •	Displays an image (Itachi's image) and a GIF (sharingan.gif) as part of the splash screen.
 •	Initiates an animation (sharingan.gif frames) during the splash screen.
